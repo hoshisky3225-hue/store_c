@@ -1,10 +1,5 @@
-"""Optional GraphQL types for store_lab (manifest.schema)."""
+"""GraphQL types exported via graphql_types.types (manifest.schema entry point)."""
 
-import strawberry
+from graphql_types.types import DestinationSummary, Trip, TripConnection, TripDay
 
-
-@strawberry.type
-class LabStatus:
-    store_id: str
-    version: str
-    healthy: bool = True
+__all__ = ["Trip", "TripDay", "TripConnection", "DestinationSummary"]

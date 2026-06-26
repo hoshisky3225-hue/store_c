@@ -1,7 +1,7 @@
 {
   "store_id": "store_lab",
-  "name": "Store Lab",
-  "version": "1.0.0",
+  "name": "Store Lab Travel",
+  "version": "1.1.0",
   "schema": "schema.py",
   "query": "query.py",
   "mutation": "mutation.py",
@@ -13,6 +13,7 @@
   ],
   "config": {
     "experimental": true,
-    "description": "Minimal store for experimental import and ingestion smoke tests"
+    "default_currency": "VND",
+    "description": "Travel store lab — query trips, destinations, featured packages"
   }
 }

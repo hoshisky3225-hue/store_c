@@ -1,0 +1,182 @@
+[
+  {
+    "id": "trip-halong-3d2n",
+    "slug": "ha-long-3n2d",
+    "title": "Du thuyền Hạ Long 3 ngày 2 đêm",
+    "destination": "Quảng Ninh",
+    "region": "north",
+    "duration_days": 3,
+    "duration_nights": 2,
+    "price_from": 3200000,
+    "currency": "VND",
+    "rating": 4.8,
+    "review_count": 214,
+    "cover_image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200",
+    "summary": "Khám phá vịnh Hạ Long trên du thuyền 4 sao, kayak hang động và tắm biển Titop.",
+    "highlights": [
+      "Ngắm hoàng hôn trên boong tàu",
+      "Kayak hang Sửng Sốt",
+      "Ẩm thực hải sản tươi sống"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Hà Nội - Hạ Long",
+        "description": "Di chuyển tới cảng, lên du thuyền và tham quan hang động.",
+        "activities": ["Xe đón tại Hà Nội", "Check-in du thuyền", "Tham quan hang Sửng Sốt"]
+      },
+      {
+        "day": 2,
+        "title": "Khám phá vịnh",
+        "description": "Kayak, bơi lội và nghỉ ngơi trên vịnh.",
+        "activities": ["Kayak làng chài", "Tắm biển Titop", "Tiệc BBQ trên tàu"]
+      },
+      {
+        "day": 3,
+        "title": "Trở về Hà Nội",
+        "description": "Brunch sáng và trả khách tại Hà Nội.",
+        "activities": ["Brunch trên tàu", "Trả khách Hà Nội"]
+      }
+    ],
+    "included": ["Du thuyền 3N2Đ", "Ăn uống theo chương trình", "HDV tiếng Việt", "Bảo hiểm du lịch"],
+    "excluded": ["Đồ uống có cồn", "Chi phí cá nhân", "Tip cho HDV"],
+    "departure_cities": ["Hà Nội"],
+    "featured": true,
+    "status": "active"
+  },
+  {
+    "id": "trip-danang-4d3n",
+    "slug": "da-nang-hoi-an-4n3d",
+    "title": "Đà Nẵng - Hội An 4 ngày 3 đêm",
+    "destination": "Đà Nẵng",
+    "region": "central",
+    "duration_days": 4,
+    "duration_nights": 3,
+    "price_from": 4500000,
+    "currency": "VND",
+    "rating": 4.7,
+    "review_count": 156,
+    "cover_image": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1200",
+    "summary": "Nghỉ dưỡng biển Đà Nẵng, phố cổ Hội An và Bà Nà Hills trong một hành trình.",
+    "highlights": [
+      "Phố cổ Hội An về đêm",
+      "Cầu Vàng Bà Nà Hills",
+      "Biển Mỹ Khê"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Đón sân bay - Đà Nẵng",
+        "description": "Nhận phòng resort và tự do khám phá biển.",
+        "activities": ["Đón sân bay", "Check-in resort", "Tắm biển Mỹ Khê"]
+      },
+      {
+        "day": 2,
+        "title": "Bà Nà Hills",
+        "description": "Tham quan cáp treo và Cầu Vàng.",
+        "activities": ["Cáp treo Bà Nà", "Chụp ảnh Cầu Vàng", "Vui chơi Fantasy Park"]
+      },
+      {
+        "day": 3,
+        "title": "Hội An",
+        "description": "Phố cổ, làng gốm Thanh Hà và thả đèn hoa đăng.",
+        "activities": ["Tham quan phố cổ", "Làng gốm", "Thả đèn hoa đăng"]
+      },
+      {
+        "day": 4,
+        "title": "Trả phòng - Bay về",
+        "description": "Mua sắm và tiễn sân bay.",
+        "activities": ["Check-out", "Tiễn sân bay"]
+      }
+    ],
+    "included": ["Khách sạn 3 sao", "Xe đưa đón", "Vé Bà Nà", "Ăn sáng"],
+    "excluded": ["Vé máy bay", "Ăn trưa/tối", "Chi phí cá nhân"],
+    "departure_cities": ["Hà Nội", "TP. Hồ Chí Minh"],
+    "featured": true,
+    "status": "active"
+  },
+  {
+    "id": "trip-phuquoc-3d2n",
+    "slug": "phu-quoc-3n2d",
+    "title": "Phú Quốc nghỉ dưỡng 3 ngày 2 đêm",
+    "destination": "Phú Quốc",
+    "region": "south",
+    "duration_days": 3,
+    "duration_nights": 2,
+    "price_from": 5100000,
+    "currency": "VND",
+    "rating": 4.6,
+    "review_count": 98,
+    "cover_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+    "summary": "Resort biển, lặn ngắm san hô và safari Phú Quốc cho gia đình.",
+    "highlights": [
+      "Resort 4 sao sát biển",
+      "Tour 3 đảo",
+      "VinWonders hoặc Safari"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Đến Phú Quốc",
+        "description": "Nhận phòng và thư giãn tại resort.",
+        "activities": ["Đón sân bay", "Check-in resort", "Tắm biển"]
+      },
+      {
+        "day": 2,
+        "title": "Tour 3 đảo",
+        "description": "Lặn ngắm san hô, câu cá và BBQ hải sản.",
+        "activities": ["Cano 3 đảo", "Lặn ngắm san hô", "BBQ trưa"]
+      },
+      {
+        "day": 3,
+        "title": "Mua sắm - Về",
+        "description": "Chợ đêm Dinh Cậu và tiễn sân bay.",
+        "activities": ["Chợ đêm", "Tiễn sân bay"]
+      }
+    ],
+    "included": ["Resort 4 sao", "Tour 3 đảo", "Ăn sáng", "Xe đưa đón"],
+    "excluded": ["Vé máy bay", "VinWonders/Safari", "Đồ uống"],
+    "departure_cities": ["TP. Hồ Chí Minh", "Hà Nội"],
+    "featured": false,
+    "status": "active"
+  },
+  {
+    "id": "trip-sapa-2d1n",
+    "slug": "sapa-2n1d",
+    "title": "Sapa trekking 2 ngày 1 đêm",
+    "destination": "Lào Cai",
+    "region": "north",
+    "duration_days": 2,
+    "duration_nights": 1,
+    "price_from": 1800000,
+    "currency": "VND",
+    "rating": 4.5,
+    "review_count": 73,
+    "cover_image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200",
+    "summary": "Trek ruộng bậc thang, homestay bản địa và ngắm Fansipan (tuỳ chọn cáp treo).",
+    "highlights": [
+      "Trek bản Lao Chải - Tả Van",
+      "Homestay người H'Mông",
+      "Ẩm thực địa phương"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Hà Nội - Sapa",
+        "description": "Xe limousine và trek chiều tới homestay.",
+        "activities": ["Xe limousine", "Trek Lao Chải", "Nghỉ homestay"]
+      },
+      {
+        "day": 2,
+        "title": "Sapa - Hà Nội",
+        "description": "Tham quan chợ Sapa và trở về Hà Nội.",
+        "activities": ["Chợ Sapa", "Xe về Hà Nội"]
+      }
+    ],
+    "included": ["Xe limousine", "Homestay", "HDV địa phương", "Bữa ăn theo chương trình"],
+    "excluded": ["Vé cáp treo Fansipan", "Chi phí cá nhân"],
+    "departure_cities": ["Hà Nội"],
+    "featured": true,
+    "status": "active"
+  }
+]
