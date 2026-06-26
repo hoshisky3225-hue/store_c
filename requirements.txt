@@ -1,0 +1,2 @@
+# Runtime deps are provided by Marcus (strawberry, marcus_sdk).
+# Add store-specific packages here if needed.

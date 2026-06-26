@@ -1,0 +1,18 @@
+{
+  "store_id": "store_lab",
+  "name": "Store Lab",
+  "version": "1.0.0",
+  "schema": "schema.py",
+  "query": "query.py",
+  "mutation": "mutation.py",
+  "enabled": true,
+  "data_dir": "data",
+  "hosts": [
+    "store-lab.localhost",
+    "store-lab.hoshisky.com"
+  ],
+  "config": {
+    "experimental": true,
+    "description": "Minimal store for experimental import and ingestion smoke tests"
+  }
+}
