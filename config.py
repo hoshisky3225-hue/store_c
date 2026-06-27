@@ -6,7 +6,7 @@ from typing import Any
 from marcus_sdk.config import StoreConfig
 from marcus_sdk.storage import JsonStorageProvider, StorageProvider
 
-STORE_ID = "store_lab"
+STORE_ID = "store_c"
 DATA_DIR = Path("data")
 STORAGE: StorageProvider | None = None
 DEFAULT_CURRENCY = "VND"

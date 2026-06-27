@@ -16,9 +16,9 @@ from resolvers.trip_resolver import (
 
 @strawberry.type
 class Query:
-    @strawberry.field(name="storeLabPing")
-    def store_lab_ping(self) -> str:
-        return "store_lab:ok"
+    @strawberry.field(name="storeCPing")
+    def store_c_ping(self) -> str:
+        return "store_c:ok"
 
     @strawberry.field
     def trips(

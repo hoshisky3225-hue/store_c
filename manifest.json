@@ -1,19 +1,19 @@
 {
-  "store_id": "store_lab",
-  "name": "Store Lab Travel",
-  "version": "1.1.0",
+  "store_id": "store_c",
+  "name": "Store C Travel",
+  "version": "1.2.0",
   "schema": "schema.py",
   "query": "query.py",
   "mutation": "mutation.py",
   "enabled": true,
   "data_dir": "data",
   "hosts": [
-    "store-lab.localhost",
-    "store-lab.hoshisky.com"
+    "store-c.localhost",
+    "store-c.hoshisky.com"
   ],
   "config": {
     "experimental": true,
     "default_currency": "VND",
-    "description": "Travel store lab — query trips, destinations, featured packages"
+    "description": "Travel store — query trips, destinations, featured packages"
   }
 }
